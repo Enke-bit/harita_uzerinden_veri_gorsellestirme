@@ -26,4 +26,4 @@ Aşağıda, kodu çalıştırdığınızda elde edeceğiniz haritanın bir örne
 
 
 ## Yazarlar
-[İbrahim Püsküllü]: Proje Geliştiricisi
+İbrahim Püsküllü: Proje Geliştiricisi
